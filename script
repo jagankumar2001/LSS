@@ -1,0 +1,11 @@
+var=1
+tezt=mca
+#double quotes
+echo "execute double quotes $var $test"
+
+#single quotes
+echo 'execute single quotes $var $test'
+
+
+#reverse quotes
+echo "this hostname is :`hostname`"
