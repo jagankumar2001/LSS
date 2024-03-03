@@ -5,3 +5,7 @@ echo "Quoted Values: $@"
 echo "Quoted Values: $*"
 echo "Total Number of Parameters : $#"
 echo "`expr $1+$2`"
+num1=$1
+num2=$2
+sum=$((num1+num2))
+echo  $sum
