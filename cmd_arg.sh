@@ -9,3 +9,4 @@ num1=$1
 num2=$2
 sum=$((num1+num2))
 echo  $sum
+echo "how r u"
